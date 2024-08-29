@@ -60,6 +60,7 @@ ls
 cd myfolder/
 ls 
 vim important-commands.sh
+<<<<<<< HEAD
 ls 
 cd first-command.sh
 sh first-command.sh
@@ -167,3 +168,5 @@ git add .
 git commit -m ".gitignore updated"
 git push origin main 
 exit 
+=======
+>>>>>>> origin/main
