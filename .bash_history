@@ -60,3 +60,113 @@ ls
 cd myfolder/
 ls 
 vim important-commands.sh
+<<<<<<< HEAD
+ls 
+cd first-command.sh
+sh first-command.sh
+ls 
+cd test 
+cd myfolder 
+ls 
+cat execute_dir.sh
+ls
+cd fareed 
+ls 
+cd ..
+cat test
+ls
+cat first-command.sh 
+cd fareed 
+ls
+ls 
+cd //
+cd ..
+ls
+cd ..
+cd //
+cdf fareed 
+cd fareed 
+cd ~
+ls 
+cd myfolder/
+ls
+cd python_projects/\
+ls
+cd ..
+la
+ls
+cat execute_dir.sh
+cd ..
+ls 
+sh first-shell-script.sh 
+cat first-shell-script.sh 
+
+cat first-command.sh
+ls 
+cd fareed 
+ls
+ls 
+cd ..
+ls 
+cd test
+cat test 
+nproc 
+free 
+history
+ls
+cat main.py
+cat first-command.sh
+cat first-shell-script.sh 
+cd folder 
+cd myfolder/
+ls 
+cat execute_dir.sh 
+ls 
+cd fareed/
+ls
+ls 
+vim node_health.sh
+sh node_health.sh 
+vim node_health.sh
+sh node_health.sh 
+ps -ef 
+ps -ef | grep amazon 
+ps -ef | grep "amazon"
+vim node_health.sh
+sh node_health.sh 
+ps -ef | grep amazon | awk -F" " `{print $2}` 
+ps -ef | grep amazon | awk -F" " '{print $2}' 
+vim node_health.sh
+cd ..
+git init 
+git remote -v 
+git add .
+git pull origin main 
+git add .
+git commit -m "initial commit "
+git push origin main 
+rm -rf .git
+la 
+git init 
+git checkout -b main 
+git pull origin main 
+git add .
+git pull origin main --force
+ls 
+git add .
+git commit -m "SOME SCRIPTING DONE "
+git push origin main 
+ls 
+cd Shell-Scripting-in-Linux-/
+ls 
+cd ..
+ls 
+l
+la
+vim .gitignore
+git add .
+git commit -m ".gitignore updated"
+git push origin main 
+exit 
+=======
+>>>>>>> origin/main

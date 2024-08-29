@@ -11,10 +11,17 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+<<<<<<< HEAD
+:q
+|2,0,1724951529,,"q"
+:wq!
+|2,0,1724951335,,"wq!"
+=======
 :wq!
 |2,0,1724849823,,"wq!"
 :q
 |2,0,1724653706,,"q"
+>>>>>>> origin/main
 
 # Search String History (newest to oldest):
 
@@ -30,6 +37,258 @@
 |3,0,32,0,1,0,1724571338,"w"
 
 # File marks:
+<<<<<<< HEAD
+'0  169  1  ~/.bash_history
+|4,48,169,1,1724951529,"~/.bash_history"
+'1  149  8  ~/.bash_history
+|4,49,149,8,1724951335,"~/.bash_history"
+'2  149  8  ~/.bash_history
+|4,50,149,8,1724951335,"~/.bash_history"
+'3  31  24  ~/myfolder/fareed/some_useful_commands.sh
+|4,51,31,24,1724950761,"~/myfolder/fareed/some_useful_commands.sh"
+'4  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,52,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+'5  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,53,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+'6  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,54,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+'7  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,55,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+'8  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,56,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+'9  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,57,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+
+# Jumplist (newest first):
+-'  169  1  ~/.bash_history
+|4,39,169,1,1724951529,"~/.bash_history"
+-'  149  8  ~/.bash_history
+|4,39,149,8,1724951363,"~/.bash_history"
+-'  149  8  ~/.bash_history
+|4,39,149,8,1724951335,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1724951225,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1724951225,"~/.bash_history"
+-'  31  24  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,31,24,1724950761,"~/myfolder/fareed/some_useful_commands.sh"
+-'  31  24  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,31,24,1724950761,"~/myfolder/fareed/some_useful_commands.sh"
+-'  31  24  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,31,24,1724950761,"~/myfolder/fareed/some_useful_commands.sh"
+-'  31  24  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,31,24,1724950761,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950423,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950423,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950423,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950423,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+-'  27  4  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,27,4,1724950115,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950057,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  76  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,76,1724950038,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  66  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,66,1724949834,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  66  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,66,1724949834,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  66  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,66,1724949834,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  66  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,66,1724949834,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,0,1724949640,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,0,1724949640,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,0,1724949640,"~/myfolder/fareed/some_useful_commands.sh"
+-'  23  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,23,0,1724949640,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  1  0  ~/myfolder/fareed/some_useful_commands.sh
+|4,39,1,0,1724949267,"~/myfolder/fareed/some_useful_commands.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+-'  28  39  ~/myfolder/fareed/node_health.sh
+|4,39,28,39,1724949251,"~/myfolder/fareed/node_health.sh"
+
+# History of marks within files (newest to oldest):
+
+> ~/.bash_history
+	*	1724951527	0
+	"	169	1
+	^	169	2
+	.	150	0
+	+	148	0
+	+	141	0
+	+	149	505
+	+	150	0
+
+> ~/myfolder/fareed/some_useful_commands.sh
+	*	1724950755	0
+	"	31	24
+	^	31	25
+	.	31	24
+	+	16	5
+	+	14	5
+	+	22	98
+	+	22	0
+	+	23	77
+	+	27	77
+	+	31	24
+
+> ~/myfolder/fareed/node_health.sh
+	*	1724949248	0
+=======
 '0  12  7  ~/.gitignore
 |4,48,12,7,1724849823,"~/.gitignore"
 '1  28  39  ~/myfolder/fareed/node_health.sh
@@ -264,6 +523,7 @@
 
 > ~/myfolder/fareed/node_health.sh
 	*	1724847715	0
+>>>>>>> origin/main
 	"	28	39
 	^	28	40
 	.	16	39
@@ -277,6 +537,16 @@
 	+	15	113
 	+	16	39
 
+<<<<<<< HEAD
+> ~/.gitignore
+	*	1724849820	0
+	"	12	7
+	^	12	8
+	.	12	7
+	+	12	7
+
+=======
+>>>>>>> origin/main
 > ~/myfolder/important-commands.sh
 	*	1724739449	0
 	"	21	6
